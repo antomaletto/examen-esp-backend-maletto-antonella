@@ -14,23 +14,13 @@ import java.util.List;
 @RestController
 @RequestMapping("/catalog")
 public class CatalogController {
-	//private CatalogService catalogService;
+
 	private final MovieFeing movieFeing;
 
 	public CatalogController(MovieFeing movieFeing) {
 		this.movieFeing = movieFeing;
 	}
 
-	/*@Autowired
-	public CatalogController(CatalogService catalogService, MovieFeing movieFeing) {
-		this.catalogService = catalogService;
-		this.movieFeing = movieFeing;
-	}*/
-
-	/*@GetMapping("/{genre}")
-	ResponseEntity<CatalogWS> getCatalogByGenre(@PathVariable String genre) {
-		return null;
-	}*/
 	@GetMapping("/{genre}")
 	ResponseEntity<List<MovieFeing.MovieDto>> getGenre(@PathVariable String genre) {
 		return ResponseEntity.ok(movieFeing.getMovieByGenre(genre));

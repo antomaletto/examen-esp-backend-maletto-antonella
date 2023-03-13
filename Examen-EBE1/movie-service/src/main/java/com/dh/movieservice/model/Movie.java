@@ -10,12 +10,9 @@ import javax.persistence.Id;
 import java.io.Serializable;
 
 @Data
-//@Getter
-//@Setter
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
-//@Table(name="movies")
 public class Movie  implements Serializable {
 	private static final long serialVersionUID = 1L;
 	@Id

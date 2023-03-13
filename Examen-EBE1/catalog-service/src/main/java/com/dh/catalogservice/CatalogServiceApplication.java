@@ -8,9 +8,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 
 @EnableFeignClients
-//@EnableDiscoveryClient
-//@EnableJpaRepositories
-@SpringBootApplication//(exclude={DataSourceAutoConfiguration.class})
+@SpringBootApplication
 public class CatalogServiceApplication {
 
 	public static void main(String[] args) {
