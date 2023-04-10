@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-04-09T19:35:17.898+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/catalog/movies/offline"
+}

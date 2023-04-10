@@ -1,0 +1,39 @@
+[
+  {
+    "id": "819eb56b-bc6b-4c90-9807-a02a55d823da",
+    "name": "Serie B",
+    "genre": "comedia",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "chapters": [
+          {
+            "name": "Chapter A",
+            "number": 1,
+            "urlStream": "www.netflix.com/series/comedia/1/season/1/chapter/1"
+          },
+          {
+            "name": "Chapter B",
+            "number": 2,
+            "urlStream": "www.netflix.com/series/comedia/1/season/1/chapter/2"
+          }
+        ]
+      },
+      {
+        "seasonNumber": 2,
+        "chapters": [
+          {
+            "name": "Chapter A",
+            "number": 1,
+            "urlStream": "www.netflix.com/series/comedia/1/season/2/chapter/1"
+          },
+          {
+            "name": "Chapter B",
+            "number": 2,
+            "urlStream": "www.netflix.com/series/comedia/1/season/2/chapter/2"
+          }
+        ]
+      }
+    ]
+  }
+]

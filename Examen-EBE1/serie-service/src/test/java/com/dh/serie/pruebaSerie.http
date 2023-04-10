@@ -1,0 +1,11 @@
+POST http://localhost:8080/series
+Content-Type: application/json
+
+
+### GET request with a header
+GET http://localhost:8080/series
+Accept: application/json
+
+### GET request with a header
+GET http://localhost:8080/series/terror
+Accept: application/json

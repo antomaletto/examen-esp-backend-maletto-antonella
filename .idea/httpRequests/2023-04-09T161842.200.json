@@ -1,0 +1,39 @@
+[
+  {
+    "id": "c8e1a197-2d23-4461-890d-824ecacd5b7e",
+    "name": "Serie A",
+    "genre": "terror",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "chapters": [
+          {
+            "name": "Chapter A",
+            "number": 1,
+            "urlStream": "www.netflix.com/series/terror/1/season/1/chapter/1"
+          },
+          {
+            "name": "Chapter B",
+            "number": 2,
+            "urlStream": "www.netflix.com/series/terror/1/season/1/chapter/2"
+          }
+        ]
+      },
+      {
+        "seasonNumber": 2,
+        "chapters": [
+          {
+            "name": "Chapter A",
+            "number": 1,
+            "urlStream": "www.netflix.com/series/terror/1/season/2/chapter/1"
+          },
+          {
+            "name": "Chapter B",
+            "number": 2,
+            "urlStream": "www.netflix.com/series/terror/1/season/2/chapter/2"
+          }
+        ]
+      }
+    ]
+  }
+]

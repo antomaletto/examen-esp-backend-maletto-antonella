@@ -5,18 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24bf7af9-b94e-4876-afdd-a894c8c93086" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog-service/src/main/java/com/dh/catalogservice/client/SerieFeing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog-service/src/main/java/com/dh/catalogservice/model/Catalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog-service/src/main/java/com/dh/catalogservice/repository/CatalogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog-service/src/main/java/com/dh/catalogservice/service/CatalogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configData/serie-service.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog-service/src/main/java/com/dh/catalogservice/CatalogServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service/src/main/java/com/dh/catalogservice/CatalogServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog-service/src/main/java/com/dh/catalogservice/controller/CatalogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service/src/main/java/com/dh/catalogservice/controller/CatalogController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog-service/src/main/java/com/dh/catalogservice/dto/CatalogWS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog-service/src/main/java/com/dh/catalogservice/dto/MovieWS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog-service/src/main/java/com/dh/catalogservice/repository/MovieRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog-service/src/main/java/com/dh/catalogservice/service/CatalogService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog-service/src/main/java/com/dh/catalogservice/service/impl/CatalogServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-service/src/main/java/com/dh/movieservice/config/LoadBalancerConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-service/src/main/java/com/dh/movieservice/model/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-service/src/main/java/com/dh/movieservice/model/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-service/src/main/java/com/dh/movieservice/service/MovieService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog-service/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movie-service/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/catalog-service/src/main/java/com/dh/catalogservice/api" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -67,6 +67,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\EBE1-examen\Examen-EBE1\catalog-service" />
       <recent name="C:\Users\USER\Desktop\EBE1-examen\Examen-EBE1\catalog-service\src\main\java\com\dh\catalogservice\api" />
       <recent name="C:\Users\USER\Desktop\EBE1-examen\Examen-EBE1" />
       <recent name="C:\Users\USER\Desktop\Examen-EBE1" />
@@ -181,5 +182,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

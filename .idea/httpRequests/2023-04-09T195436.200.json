@@ -1,0 +1,76 @@
+[
+  {
+    "id": "ce8628e4-13f7-483b-b77e-c600b4373c2f",
+    "name": "Serie A",
+    "genre": "terror",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "chapters": [
+          {
+            "name": "Chapter A",
+            "number": 1,
+            "urlStream": "www.netflix.com/series/terror/1/season/1/chapter/1"
+          },
+          {
+            "name": "Chapter B",
+            "number": 2,
+            "urlStream": "www.netflix.com/series/terror/1/season/1/chapter/2"
+          }
+        ]
+      },
+      {
+        "seasonNumber": 2,
+        "chapters": [
+          {
+            "name": "Chapter A",
+            "number": 1,
+            "urlStream": "www.netflix.com/series/terror/1/season/2/chapter/1"
+          },
+          {
+            "name": "Chapter B",
+            "number": 2,
+            "urlStream": "www.netflix.com/series/terror/1/season/2/chapter/2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3a4a05fc-1017-4404-8947-a781a8650345",
+    "name": "Serie B",
+    "genre": "comedia",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "chapters": [
+          {
+            "name": "Chapter A",
+            "number": 1,
+            "urlStream": "www.netflix.com/series/comedia/1/season/1/chapter/1"
+          },
+          {
+            "name": "Chapter B",
+            "number": 2,
+            "urlStream": "www.netflix.com/series/comedia/1/season/1/chapter/2"
+          }
+        ]
+      },
+      {
+        "seasonNumber": 2,
+        "chapters": [
+          {
+            "name": "Chapter A",
+            "number": 1,
+            "urlStream": "www.netflix.com/series/comedia/1/season/2/chapter/1"
+          },
+          {
+            "name": "Chapter B",
+            "number": 2,
+            "urlStream": "www.netflix.com/series/comedia/1/season/2/chapter/2"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Pelicula 1",
+    "genre": "Terror",
+    "urlStream": "www.netflix.com"
+  },
+  {
+    "id": 2,
+    "name": "Pelicula 2",
+    "genre": "Terror",
+    "urlStream": "www.netflix.com"
+  }
+]

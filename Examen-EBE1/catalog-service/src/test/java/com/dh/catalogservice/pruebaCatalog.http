@@ -1,0 +1,24 @@
+### GET request with a header
+GET http://localhost:8080/catalog/terror/movies
+Accept: application/json
+### GET request with a header
+GET http://localhost:8080/catalog/terror/movies/offline
+Accept: application/json
+### GET request with a header
+GET http://localhost:8080/catalog/terror/series
+Accept: application/json
+
+### GET request with a header
+GET http://localhost:8080/catalog/comedia/series
+Accept: application/json
+
+### PATCH request with a header
+PATCH http://localhost:55780/catalog/movies/offline
+Accept: application/json
+### PATCH request with a header
+PATCH http://localhost:55780/catalog/series/offline
+Accept: application/json
+
+### GET request with a header
+GET http://localhost:8080/catalog/movies
+Accept: application/json
